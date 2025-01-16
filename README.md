@@ -18,7 +18,7 @@
 
 ## 🎥 Demo  
 
-![Note Keeper Demo GIF](https://note-taker-webapp.netlify.app)  
+![Note Keeper Demo GIF](https://note-taker-webapp.netlify.app/)  
 
 ---
 
