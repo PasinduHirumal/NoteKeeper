@@ -42,5 +42,5 @@ Follow these steps to set up the project locally:
 ### Installation  
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/your-username/note-keeper.git  
+   git clone https://github.com/PasinduHirumal/NoteKeeper.git 
    cd note-keeper  
