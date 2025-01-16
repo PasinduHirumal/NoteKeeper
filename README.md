@@ -1,9 +1,5 @@
 # 📝 Note Keeper  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PasinduHirumal/NoteKeeper)
-![GitHub issues](https://img.shields.io/github/issues/PasinduHirumal/NoteKeeper)  
-![License](https://img.shields.io/github/license/PasinduHirumal/NoteKeeper)  
-
 ## 📌 About the Project  
 
 **Note Keeper** is a responsive, user-friendly web application designed to help users organize their thoughts, tasks, and ideas efficiently. Featuring speech functionality, search, and filtering options, this app is a one-stop solution for digital note-taking.  
