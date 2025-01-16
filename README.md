@@ -1,8 +1,8 @@
 # 📝 Note Keeper  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PasinduHirumal/note-keeper)
-![GitHub issues](https://img.shields.io/github/issues/PasinduHirumal/note-keeper)  
-![License](https://img.shields.io/github/license/PasinduHirumal/note-keeper)  
+![GitHub repo size](https://img.shields.io/github/repo-size/PasinduHirumal/NoteKeeper)
+![GitHub issues](https://img.shields.io/github/issues/PasinduHirumal/NoteKeeper)  
+![License](https://img.shields.io/github/license/PasinduHirumal/NoteKeeper)  
 
 ## 📌 About the Project  
 
