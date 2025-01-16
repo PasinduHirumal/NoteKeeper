@@ -1,8 +1,6 @@
 # 📝 Note Keeper  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PasinduHirumal/note-keeper)  
-![GitHub stars](https://img.shields.io/github/stars/PasinduHirumal/note-keeper?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/PasinduHirumal/note-keeper?style=social)  
+![GitHub repo size](https://img.shields.io/github/repo-size/PasinduHirumal/note-keeper)
 ![GitHub issues](https://img.shields.io/github/issues/PasinduHirumal/note-keeper)  
 ![License](https://img.shields.io/github/license/PasinduHirumal/note-keeper)  
 
