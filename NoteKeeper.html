@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Note Keeper</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="note-section">
+        <div>
+          <h1>Note Keeper</h1>
+          <label for="title">
+            <input type="text" id="title" placeholder="Title" />
+            <button class="mic-button-1" onclick="readTitle()">🔊</button>
+          </label>
+          <label for="content">
+            <textarea id="content" placeholder="Content" rows="16"></textarea>
+            <button class="mic-button-2" onclick="readContent()">🔊</button>
+          </label>
+          <div id="noteSaved" class="note-saved">Note added successfully!</div>
+          <button class="save" onclick="saveNote()">Save</button>
+          <button class="clear-all" onclick="clearNote()">Clear</button>
+        </div>
+      </div>
+
+
+      <div class="note-section">
+        <div class="search-bar">
+          <label for="search"></label>
+          <input
+            type="text"
+            id="search"
+            placeholder="Search by title"
+            oninput="searchNotes()"
+          />
+        </div>
+
+        <div id="noteList" class="note-list"></div>
+        <div>
+
+          <button class="view-all" onclick="viewAllNotes()">
+            View All Notes
+          </button>
+
+          <button class="filter-note" onclick="filterByDate()">
+            Filter Notes by Date
+          </button>
+
+          <button class="delete" onclick="deleteSelectedNotes()">
+            Delete Selected
+          </button>
+
+          <button class="clear-all-notes" onclick="clearAllNotes()">
+            Clear All Notes
+          </button>
+          
+        </div>
+      </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+    <input type="hidden" id="editIndex" value="-1" />
+  </body>
+</html>
